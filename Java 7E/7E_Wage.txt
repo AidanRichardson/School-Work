@@ -1,0 +1,8 @@
+========= Salary Slip =========
+Employee: Matthew
+Company: CompSci Industrial
+===============================
+Hours worked: 24
+Hourly rate: £9.50
+Total Salary: £228.0
+===============================
